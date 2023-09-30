@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\refint\Iron Ninja.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Iron Ninja\obj\Debug\net6.0\ref\Iron Ninja.dll
